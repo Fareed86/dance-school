@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Contemporary Dance",
+        "price": 15000,
+        "image": "https://mobirise.com/extensions/lightamp/assets/images/contemporary-771x528.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ballet",
+        "price": 5000,
+        "image": "https://mobirise.com/extensions/lightamp/assets/images/ballet-771x512.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pole Dance",
+        "price": 10000,
+        "image": "https://mobirise.com/extensions/lightamp/assets/images/pole-771x511.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Hip-Hop",
+        "price": 18000,
+        "image": "https://mobirise.com/extensions/lightamp/assets/images/hip-hop-771x514.jpg"
+    }
+]

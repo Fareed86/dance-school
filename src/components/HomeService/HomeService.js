@@ -1,8 +1,8 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 
-const Service = (props) => {
-    const { name, price, image } = props.service;
+const HomeService = (props) => {
+    const { name, price, image } = props.homeService;
     return (
         <Col>
             <Card className="border border-secondary border-5">
@@ -18,4 +18,4 @@ const Service = (props) => {
     );
 };
 
-export default Service;
+export default HomeService;
