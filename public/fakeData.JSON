@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Contemporary Dance",
+        "price": 15000,
+        "image": "https://mobirise.com/extensions/lightamp/assets/images/contemporary-771x528.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ballet",
+        "price": 5000,
+        "image": "https://mobirise.com/extensions/lightamp/assets/images/ballet-771x512.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pole Dance",
+        "price": 10000,
+        "image": "https://mobirise.com/extensions/lightamp/assets/images/pole-771x511.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Hip-Hop",
+        "price": 18000,
+        "image": "https://mobirise.com/extensions/lightamp/assets/images/hip-hop-771x514.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pop",
+        "price": 12000,
+        "image": "https://1dfycx2tgasa3dx0ov1k6xyj-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/WOD-finals-4-stars-83.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jazz",
+        "price": 9000,
+        "image": "https://rajendra485009026.files.wordpress.com/2017/12/images36816278227.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Folk",
+        "price": 7000,
+        "image": "https://cdn-abalg.nitrocdn.com/qJaHhaLrhncYQxhIXZLCyJRTtBPtKNRX/assets/static/optimized/rev-539635d/wp-content/uploads/2018/10/Popular-Folk-Dances-of-Bangladesh-f.jpg"
+    },
+    {
+        "id": 8,
+        "name": "K-Pop",
+        "price": 11000,
+        "image": "https://res.klook.com/image/upload/c_fill,w_1160,h_460,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/hfdoc2bfovs6chwzghei.webp"
+    }
+]
